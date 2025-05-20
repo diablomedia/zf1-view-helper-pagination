@@ -1,10 +1,11 @@
 parameters:
     level: 8
-    checkMissingIterableValueType: false
     paths:
         - ./
     excludePaths:
         - %rootDir%/../../../vendor/*
         - %rootDir%/../../../tests/*
     ignoreErrors:
+        -
+            identifier: missingType.iterableValue
         - '#Call to an undefined method Zend_View_Interface::partial\(\)\.#'
