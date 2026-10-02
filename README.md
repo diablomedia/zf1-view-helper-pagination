@@ -6,4 +6,7 @@
 [![Total Downloads](https://poser.pugx.org/diablomedia/zendframework1-view-helper-paginationcontrol/downloads)](https://packagist.org/packages/diablomedia/zendframework1-view-helper-paginationcontrol)
 [![License](https://poser.pugx.org/diablomedia/zendframework1-view-helper-paginationcontrol/license)](https://packagist.org/packages/diablomedia/zendframework1-view-helper-paginationcontrol)
 
+> [!WARNING]  
+> We've archived this repo as we're no longer using or maintaining Zend Framework 1
+
 This is just the Zend_View_Helper_PaginationControl component extracted from our fork of the Zend Framework 1 repo (https://github.com/diablomedia/zf1).
